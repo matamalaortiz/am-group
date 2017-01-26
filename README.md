@@ -5,9 +5,7 @@ The idea of the poster is to use one type of a piece of technology to explore as
 
 Fall 2016 posters can be found here:
 
-![Alt text](/Fall-2016/01.jpg "First Poster")
-![Alt text](/Fall-2016/02.jpg "First Poster")
-![Alt text](/Fall-2016/03.jpg "First Poster")
-![Alt text](/Fall-2016/04.jpg "First Poster")
+![Alt text](/Fall-2016/all.jpg "First Poster")
+
 
 * The goal for Spring 2017 it to use websites as a medium for poster design.
